@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroondasBackend", "MicroondasDigital\MicroondasBackend.csproj", "{B507282B-C1FF-4C04-96D7-A39DF7FA2AD1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MicroondasInterface", "MicroondasInterface\MicroondasInterface.csproj", "{80805F30-2CDF-4050-B989-748CAFEE14BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|ARM64 = Debug|ARM64
+		Release|Any CPU = Release|Any CPU
+		Release|ARM64 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B507282B-C1FF-4C04-96D7-A39DF7FA2AD1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B507282B-C1FF-4C04-96D7-A39DF7FA2AD1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B507282B-C1FF-4C04-96D7-A39DF7FA2AD1}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{B507282B-C1FF-4C04-96D7-A39DF7FA2AD1}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{B507282B-C1FF-4C04-96D7-A39DF7FA2AD1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B507282B-C1FF-4C04-96D7-A39DF7FA2AD1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B507282B-C1FF-4C04-96D7-A39DF7FA2AD1}.Release|ARM64.ActiveCfg = Release|Any CPU
+		{B507282B-C1FF-4C04-96D7-A39DF7FA2AD1}.Release|ARM64.Build.0 = Release|Any CPU
+		{80805F30-2CDF-4050-B989-748CAFEE14BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80805F30-2CDF-4050-B989-748CAFEE14BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80805F30-2CDF-4050-B989-748CAFEE14BB}.Debug|ARM64.ActiveCfg = Debug|Any CPU
+		{80805F30-2CDF-4050-B989-748CAFEE14BB}.Debug|ARM64.Build.0 = Debug|Any CPU
+		{80805F30-2CDF-4050-B989-748CAFEE14BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80805F30-2CDF-4050-B989-748CAFEE14BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80805F30-2CDF-4050-B989-748CAFEE14BB}.Release|ARM64.ActiveCfg = Release|ARM64
+		{80805F30-2CDF-4050-B989-748CAFEE14BB}.Release|ARM64.Build.0 = Release|ARM64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F0E79F20-D17A-4602-B2DE-DC2936B450B7}
+	EndGlobalSection
+EndGlobal

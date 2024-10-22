@@ -1,0 +1,9 @@
+C:\Users\morae\OneDrive\Área de Trabalho\MicroondasDigital\MicroondasDigital\bin\Debug\MicroondasDigital.dll
+C:\Users\morae\OneDrive\Área de Trabalho\MicroondasDigital\MicroondasDigital\bin\Debug\MicroondasDigital.pdb
+C:\Users\morae\OneDrive\Área de Trabalho\MicroondasDigital\MicroondasDigital\obj\Debug\MicroondasBackend.csproj.AssemblyReference.cache
+C:\Users\morae\OneDrive\Área de Trabalho\MicroondasDigital\MicroondasDigital\obj\Debug\MicroondasBackend.csproj.CoreCompileInputs.cache
+C:\Users\morae\OneDrive\Área de Trabalho\MicroondasDigital\MicroondasDigital\obj\Debug\MicroondasDigital.dll
+C:\Users\morae\OneDrive\Área de Trabalho\MicroondasDigital\MicroondasDigital\obj\Debug\MicroondasDigital.pdb
+C:\Users\morae\OneDrive\Área de Trabalho\MicroondasDigital\MicroondasDigital\bin\Debug\Newtonsoft.Json.dll
+C:\Users\morae\OneDrive\Área de Trabalho\MicroondasDigital\MicroondasDigital\bin\Debug\Newtonsoft.Json.xml
+C:\Users\morae\OneDrive\Área de Trabalho\MicroondasDigital\MicroondasDigital\obj\Debug\Microond.4EBF4684.Up2Date

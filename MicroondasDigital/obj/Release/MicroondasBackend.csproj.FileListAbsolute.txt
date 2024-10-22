@@ -1,0 +1,6 @@
+C:\Users\morae\OneDrive\Área de Trabalho\MicroondasDigital\MicroondasDigital\bin\Release\MicroondasDigital.dll
+C:\Users\morae\OneDrive\Área de Trabalho\MicroondasDigital\MicroondasDigital\bin\Release\MicroondasDigital.pdb
+C:\Users\morae\OneDrive\Área de Trabalho\MicroondasDigital\MicroondasDigital\obj\Release\MicroondasBackend.csproj.AssemblyReference.cache
+C:\Users\morae\OneDrive\Área de Trabalho\MicroondasDigital\MicroondasDigital\obj\Release\MicroondasBackend.csproj.CoreCompileInputs.cache
+C:\Users\morae\OneDrive\Área de Trabalho\MicroondasDigital\MicroondasDigital\obj\Release\MicroondasDigital.dll
+C:\Users\morae\OneDrive\Área de Trabalho\MicroondasDigital\MicroondasDigital\obj\Release\MicroondasDigital.pdb

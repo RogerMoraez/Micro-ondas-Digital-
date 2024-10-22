@@ -1,0 +1,16 @@
+C:\Users\morae\OneDrive\Área de Trabalho\MicroondasDigital\MicroondasInterface\bin\Debug\MicroondasInterface.exe.config
+C:\Users\morae\OneDrive\Área de Trabalho\MicroondasDigital\MicroondasInterface\bin\Debug\MicroondasInterface.exe
+C:\Users\morae\OneDrive\Área de Trabalho\MicroondasDigital\MicroondasInterface\bin\Debug\MicroondasInterface.pdb
+C:\Users\morae\OneDrive\Área de Trabalho\MicroondasDigital\MicroondasInterface\bin\Debug\MicroondasDigital.dll
+C:\Users\morae\OneDrive\Área de Trabalho\MicroondasDigital\MicroondasInterface\bin\Debug\MicroondasDigital.pdb
+C:\Users\morae\OneDrive\Área de Trabalho\MicroondasDigital\MicroondasInterface\obj\Debug\MicroondasInterface.csproj.AssemblyReference.cache
+C:\Users\morae\OneDrive\Área de Trabalho\MicroondasDigital\MicroondasInterface\obj\Debug\MicroondasInterface.Form1.resources
+C:\Users\morae\OneDrive\Área de Trabalho\MicroondasDigital\MicroondasInterface\obj\Debug\MicroondasInterface.Properties.Resources.resources
+C:\Users\morae\OneDrive\Área de Trabalho\MicroondasDigital\MicroondasInterface\obj\Debug\MicroondasInterface.csproj.GenerateResource.cache
+C:\Users\morae\OneDrive\Área de Trabalho\MicroondasDigital\MicroondasInterface\obj\Debug\MicroondasInterface.csproj.CoreCompileInputs.cache
+C:\Users\morae\OneDrive\Área de Trabalho\MicroondasDigital\MicroondasInterface\obj\Debug\Microond.542CC2D5.Up2Date
+C:\Users\morae\OneDrive\Área de Trabalho\MicroondasDigital\MicroondasInterface\obj\Debug\MicroondasInterface.exe
+C:\Users\morae\OneDrive\Área de Trabalho\MicroondasDigital\MicroondasInterface\obj\Debug\MicroondasInterface.pdb
+C:\Users\morae\OneDrive\Área de Trabalho\MicroondasDigital\MicroondasInterface\obj\Debug\MicroondasInterface.CadastroProgramaForm.resources
+C:\Users\morae\OneDrive\Área de Trabalho\MicroondasDigital\MicroondasInterface\bin\Debug\Newtonsoft.Json.dll
+C:\Users\morae\OneDrive\Área de Trabalho\MicroondasDigital\MicroondasInterface\bin\Debug\Newtonsoft.Json.xml
